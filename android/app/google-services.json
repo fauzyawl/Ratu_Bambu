@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "435361410838",
+    "firebase_url": "https://coba-27a39.firebaseio.com",
+    "project_id": "coba-27a39",
+    "storage_bucket": "coba-27a39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435361410838:android:1dcff751ae779a7330ea37",
+        "android_client_info": {
+          "package_name": "com.example.ratu_bambu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435361410838-pgu0qej8gnd61c7i0tu6gnr7j2snmog7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ratu_bambu",
+            "certificate_hash": "ee42f91aee00f6a24ec14638894fc6a98a135e60"
+          }
+        },
+        {
+          "client_id": "435361410838-066goevj56tcbe6kpn16i1vp3ri2d067.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq6_tpf3YnjsZFBHIM9EiqqSUJBqH8-ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435361410838-066goevj56tcbe6kpn16i1vp3ri2d067.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
